@@ -48,12 +48,12 @@
 
 // Memos Start
 var memo = {
-    host: 'https://demo.usememos.com/',
+    host: 'http://121.196.208.225:5230/',
     limit: '10',
     creatorId: '101',
     domId: '#memos',
-    username: 'Admin',
-    name: 'Administrator'
+    username: 'Chris',
+    name: 'Chris'
 }
 if (typeof (memos) !== "undefined") {
     for (var key in memos) {
